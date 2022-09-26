@@ -27,11 +27,11 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 global.ownername = '𝐃𝐘𝐗𝐓𝐙-𝐌𝐎𝐃𝐙ぅ'
 // Other
-global.owner = ['6282111238631','6282192533115']
+global.owner = ['6287837703726','6287837703726']
 global.region = 'Indonesia'
-global.premium = ['6282192533115']
+global.premium = ['6287837703726']
 global.packname = 'Dibuat Oleh'
-global.author = '© Fauzi BOT\nl by Whatsapp\nNomor: 6287837703726'
+global.author = '© Fauzi BOT\n by Whatsapp\nNomor: 6287837703726'
 global.wlcm = []
 global.sessionName = './src/session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
